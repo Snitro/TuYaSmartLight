@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armjlink2.dll" 
+
+"C:\Users\11610\Coding\TuYa\firmware\EWARM\firmware\Exe\firmware.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\config\debugger\GD\GD32F10x.dmac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\config\flashloader\GD\FlashGD32F103xB.board" 
+
+
+
+
